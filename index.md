@@ -2,7 +2,7 @@
 
 Thank you for visiting our website! We, the adaventurers, are happy to present the outcome of our project based on the quotebank datasets.
 
-Authors: ...
+TEST
 
 
 ## Welcome to GitHub Pages
