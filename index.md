@@ -1,3 +1,10 @@
+## Quotes can tell you what happens in the world
+
+Thank you for visiting our website! We, the adaventurers, are happy to present the outcome of our project based on the quotebank datasets.
+
+Authors: ...
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/LucasBrunschwig/ada-2021-project-adaventurers-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
